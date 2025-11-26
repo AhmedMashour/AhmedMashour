@@ -1,78 +1,139 @@
-# Ahmed Mashhour 👨‍💻
-[![AngelList Badge](https://img.shields.io/badge/Ahmed%20Mashhour-808080?style=flat&logo=AngelList&logoColor=white)](https://angel.co/u/ahmed-mashhour-2)
-[![UpWork Badge](https://img.shields.io/badge/Ahmed%20Mashhour-6fda44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d4e5a2c36f443ad0)
-[![Twitter Badge](https://img.shields.io/badge/AhmedMashhour44-30302f?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/AhmedMashhour44)
-[![Linkedin Badge](https://img.shields.io/badge/amashhour44-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amashhour44)
-[![Gmail Badge](https://img.shields.io/badge/mpghknown@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mpghknown@gmail.com)
+<div align="center">
 
+# Ahmed Mashhour
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Oi 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
-##### Software Engineer with +5 years of experience, interested in building scalable web systems using open source tools, agile methodologies, have a very good experience working with international teams.
+### Software Engineer | System Architect | Open Source Enthusiast
 
-## 🧐 About
-- 🏄‍ Software Engineer who loves to leave a good impact on people's lives.
-- 💻 I'm currently a core team member on many projects (Remotely for a USA company).
-- 👯 I’m looking to collaborate on open source projects.
+[![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/ahmed-mashhour-2)
+[![UpWork](https://img.shields.io/badge/UpWork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d4e5a2c36f443ad0)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AhmedMashhour44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amashhour44)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpghknown@gmail.com)
 
-## ⚡ Technologies
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+systems+that+matter;5%2B+years+crafting+digital+solutions;Open+source+contributor+%26+advocate;Turning+complex+problems+into+elegant+code" alt="Typing SVG" />
 
-<a href="https://codetrace.com/users/AhmedMashour"><img src="https://codetrace.com/widget/AhmedMashour" width="550" height="120" /></a>
+</div>
 
+---
 
-[![Gamal's github stats](https://github-readme-stats.vercel.app/api?username=AhmedMashour&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+## Who I Am
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mashhour4)
+I'm a software engineer driven by the belief that great code should leave a positive impact. With **8 years of experience**, I specialize in building scalable web systems using open-source tools and agile methodologies. Currently collaborating with international teams on projects that push boundaries.
 
+```typescript
+const ahmed = {
+    location: "Working Remotely",
+    role: "Software Engineer",
+    experience: "5+ years",
 
-<!--
-### Hi there 👋
-- 🔭 I’m currently working on Project with(Node with typescript, Prisma, react)
-- ⚡ Fun fact: You don't know what you don't know :joy:
+    philosophy: "Code should solve real problems for real people",
 
-- 🌱 I’m currently learning
-    * [Microsrvice with node.js](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-    
-- 🌱 I love to learn new things and ready to help others.
-- 🎨 In my free time, you'll find me listening music or watching some series.
-- 💬 Ask me about Anything around js world, maybe I can help or learn about new stuff.
+    currentFocus: [
+        "Scalable distributed systems",
+        "Developer experience optimization",
+        "Open source contributions"
+    ],
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="340px" />
+    askMeAbout: [
+        "JavaScript/TypeScript ecosystem",
+        "System architecture decisions",
+        "Remote team collaboration",
+        "Turning coffee into code"
+    ]
+};
+```
 
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![Type GraphQL](https://img.shields.io/badge/-Type%20GraphQL-311C87?style=flat-square&logo=type-graphql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Elastic Search](https://img.shields.io/badge/-elastic-black?style=flat-square&logo=elastic)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+## Tech Arsenal
 
--->
+<div align="center">
 
-<!--
-**AhmedMashour/AhmedMashour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages & Runtimes
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend & APIs
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedMashour&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMashour&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMashour&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" />
+</div>
+
+---
+
+## Coding Activity
+
+<div align="center">
+  <a href="https://codetrace.com/users/AhmedMashour">
+    <img src="https://codetrace.com/widget/AhmedMashour" width="550" height="120" alt="CodeTrace Stats"/>
+  </a>
+</div>
+
+---
+
+## Current Endeavors
+
+- Building scalable microservices architectures for production systems
+- Contributing to open source projects that make developers' lives easier
+- Exploring the intersection of AI and developer tooling
+- Mentoring and collaborating with international engineering teams
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities.
+
+Whether you want to discuss architecture decisions, explore open source ideas, or just chat about the latest in tech - reach out!
+
+[![Email Me](https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpghknown@gmail.com)
+[![Schedule a Call](https://img.shields.io/badge/Let's_Talk-6366F1?style=for-the-badge&logo=calendly&logoColor=white)](https://www.linkedin.com/in/amashhour44)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AhmedMashour&style=for-the-badge&color=6366F1)
+
+<sub>*"The best code is the code that solves real problems for real people."*</sub>
+
+</div>
