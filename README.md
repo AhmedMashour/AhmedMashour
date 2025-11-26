@@ -24,41 +24,45 @@ I don't just write code - I obsess over it. The kind of engineer who builds a **
 
 ```rust
 struct Ahmed {
-    role: &'static str,
     experience: Duration,
-    current_obsession: Expression,  // 32 bytes, cache-line optimized
+    mode: EngineerMode,
+}
+
+enum EngineerMode {
+    Building { what: &'static str },
+    Debugging { hours_in: u32 },
+    Learning { rabbit_hole: &'static str },
 }
 
 impl Ahmed {
-    const fn new() -> Self {
-        Self {
-            role: "Software Engineer who fell into the math rabbit hole",
-            experience: Duration::from_years(8),
-            current_obsession: expr!(symbolic_math + rust + "why is this not simplified?"),
-        }
+    fn daily_mass(&self) -> Vec<&str> {
+        vec![
+            "Scalable backend systems (Node.js, NestJS)",
+            "Frontend that feels right (Vue, Nuxt, React)",
+            "DevOps when no one else will (Docker, AWS, CI/CD)",
+        ]
     }
 
-    fn interests(&self) -> Vec<&str> {
+    fn after_hours(&self) -> Vec<&str> {
         vec![
-            "Making computers understand math",
-            "Squeezing performance out of everything",
-            "Parser grammars (LALRPOP is love)",
-            "Why 32 bytes matters for cache lines",
-            "Rust's type system as a puzzle game",
+            "Building a computer algebra system in Rust (MathHook)",
+            "Parser grammars and AST wizardry",
+            "Making things go faster for no reason",
+            "Reading papers I half understand",
         ]
     }
 
     fn ask_me_about(&self) -> Vec<&str> {
         vec![
-            "Symbolic computation",
-            "Expression trees & AST design",
-            "TypeScript / Node.js at scale",
-            "Vue / Nuxt ecosystems",
-            "That one bug that took 3 days to find",
+            "Scaling systems that actually need to scale",
+            "TypeScript patterns that won't haunt you",
+            "Rust - the language that says no until you get it right",
+            "That bug that definitely wasn't my fault (it was)",
         ]
     }
 }
 ```
+
 
 
 ---
