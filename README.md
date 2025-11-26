@@ -18,30 +18,48 @@
 
 ## Who I Am
 
-I'm a software engineer driven by the belief that great code should leave a positive impact. With **8 years of experience**, I specialize in building scalable web systems using open-source tools and agile methodologies. Currently collaborating with international teams on projects that push boundaries.
+I don't just write code - I obsess over it. The kind of engineer who builds a **computer algebra system in Rust** because "why not make math faster?" Currently deep in the weeds of symbolic mathematics, LALRPOP parsers, and making expressions fit in 32 bytes because cache lines matter.
 
-```typescript
-const ahmed = {
-    location: "Working Remotely",
-    role: "Software Engineer",
-    experience: "5+ years",
+**8 years** of turning "that's impossible" into "here's the PR". I chase hard problems - the ones that keep you up at night sketching algorithms on napkins. Whether it's parsing LaTeX, optimizing SIMD operations, or figuring out why that simplification broke, I'm all in.
 
-    philosophy: "Code should solve real problems for real people",
+```rust
+struct Ahmed {
+    role: &'static str,
+    experience: Duration,
+    current_obsession: Expression,  // 32 bytes, cache-line optimized
+}
 
-    currentFocus: [
-        "Scalable distributed systems",
-        "Developer experience optimization",
-        "Open source contributions"
-    ],
+impl Ahmed {
+    const fn new() -> Self {
+        Self {
+            role: "Software Engineer who fell into the math rabbit hole",
+            experience: Duration::from_years(8),
+            current_obsession: expr!(symbolic_math + rust + "why is this not simplified?"),
+        }
+    }
 
-    askMeAbout: [
-        "JavaScript/TypeScript ecosystem",
-        "System architecture decisions",
-        "Remote team collaboration",
-        "Turning coffee into code"
-    ]
-};
+    fn interests(&self) -> Vec<&str> {
+        vec![
+            "Making computers understand math",
+            "Squeezing performance out of everything",
+            "Parser grammars (LALRPOP is love)",
+            "Why 32 bytes matters for cache lines",
+            "Rust's type system as a puzzle game",
+        ]
+    }
+
+    fn ask_me_about(&self) -> Vec<&str> {
+        vec![
+            "Symbolic computation",
+            "Expression trees & AST design",
+            "TypeScript / Node.js at scale",
+            "Vue / Nuxt ecosystems",
+            "That one bug that took 3 days to find",
+        ]
+    }
+}
 ```
+
 
 ---
 
