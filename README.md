@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amashhour44)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpghknown@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+systems+that+matter;5%2B+years+crafting+digital+solutions;Open+source+contributor+%26+advocate;Turning+complex+problems+into+elegant+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+systems+that+matter;8%2B+years+crafting+digital+solutions;Open+source+contributor+%26+advocate;Turning+complex+problems+into+elegant+code" alt="Typing SVG" />
 
 </div>
 
